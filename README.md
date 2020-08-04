@@ -1,4 +1,4 @@
-# hack-the-box notes ??
+# hack-the-box notes
 
 ---
 
