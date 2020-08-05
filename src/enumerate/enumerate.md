@@ -18,3 +18,15 @@ smbclient -N -L \\\\<IP_ADDRESS>\\
 ```bash
 smbclient -N \\\\<IP_ADDRESS>\\<FOLDER>
 ```
+
+## Get file
+
+```cmd
+get <FILE> prof.dtsConfig
+```
+
+## Read file
+
+```cmd
+more <FILENAME>
+```
