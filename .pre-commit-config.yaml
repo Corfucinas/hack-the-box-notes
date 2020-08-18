@@ -9,4 +9,7 @@ repos:
     -   id: check-toml
     -   id: double-quote-string-fixer
     -   id: fix-encoding-pragma
-    -   id: debug-statements
+-   repo: https://github.com/pre-commit/mirrors-isort
+    rev: v4.3.21
+    hooks:
+    - id: isort
